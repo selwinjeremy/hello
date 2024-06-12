@@ -17,7 +17,7 @@ const Navbar = ({ scrollToSection, homeRef, aboutRef, schoolRef, projectsRef, sp
             University
           </Button>
           <Button sx={{ color: "white", fontWeight: 'bold', textTransform: 'capitalize', letterSpacing: 1, fontSize: '1.4rem' }} onClick={() => scrollToSection(projectsRef)}>
-            Side Projects
+            Projects
           </Button>
           <Button sx={{ color: "white", fontWeight: 'bold', textTransform: 'capitalize', letterSpacing: 1, fontSize: '1.4rem' }} onClick={() => scrollToSection(sportsRef)}>
             Sports
