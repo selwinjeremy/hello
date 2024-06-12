@@ -47,8 +47,9 @@ const Sports = forwardRef(({ }, ref) => {
                         {
                             !showSoccer && <IconButton
                                 onClick={toggleContent}
+                                sx={{fontSize: '3rem'}}
                             >
-                                <ArrowBackIos />
+                                <ArrowBackIos fontSize="inherit" />
                             </IconButton>
                         }
                     </Grid>
@@ -131,8 +132,9 @@ const Sports = forwardRef(({ }, ref) => {
                         {
                             showSoccer && <IconButton
                                 onClick={toggleContent}
+                                sx={{fontSize: '3rem'}}
                             >
-                                <ArrowForwardIos />
+                                <ArrowForwardIos fontSize="inherit" />
                             </IconButton>
                         }
                     </Grid>

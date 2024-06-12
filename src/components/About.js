@@ -9,7 +9,9 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import EmailIcon from '@mui/icons-material/Email';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
+
 const About = forwardRef(({ }, ref) => {
+
     return (
         <div ref={ref}>
             <Box sx={{ height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center', background: 'white' }}>

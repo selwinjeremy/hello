@@ -55,8 +55,9 @@ const University = forwardRef(({ }, ref) => {
                         {
                             !showQHacks && <IconButton
                                 onClick={toggleContent}
+                                sx={{fontSize: '3rem'}}
                             >
-                                <ArrowBackIos />
+                                <ArrowBackIos fontSize='inherit'/>
                             </IconButton>
                         }
                     </Grid>
@@ -131,9 +132,10 @@ const University = forwardRef(({ }, ref) => {
                     <Grid item xs={12} md={1} sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                         {
                             showQHacks && <IconButton
+                                sx={{fontSize: '3rem'}}
                                 onClick={toggleContent}
                             >
-                                <ArrowForwardIos />
+                                <ArrowForwardIos fontSize='inherit'/>
                             </IconButton>
                         }
                     </Grid>
