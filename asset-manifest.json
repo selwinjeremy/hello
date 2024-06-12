@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hello/static/css/main.a3e70abd.css",
-    "main.js": "/hello/static/js/main.33565bd7.js",
+    "main.js": "/hello/static/js/main.7c30c44b.js",
     "static/js/453.9116c810.chunk.js": "/hello/static/js/453.9116c810.chunk.js",
     "static/media/cruise-flamingo.jpeg": "/hello/static/media/cruise-flamingo.8cc2e9f01d4cf99d54b9.jpeg",
     "static/media/cruise-basketball.jpg": "/hello/static/media/cruise-basketball.3ec86363ce4dbe73f28f.jpg",
@@ -29,6 +29,7 @@
     "static/media/qhacks-teampic.PNG": "/hello/static/media/qhacks-teampic.5c6057fea8d29d21ffe6.PNG",
     "static/media/fiorentina.jpg": "/hello/static/media/fiorentina.6c1130eefb3c6ed035dd.jpg",
     "static/media/statue.jpg": "/hello/static/media/statue.8e9d52c0076105df2a86.jpg",
+    "static/media/jer-almafi.jpeg": "/hello/static/media/jer-almafi.41473e0082ac4574311f.jpeg",
     "static/media/run-club.JPG": "/hello/static/media/run-club.387ab8bf06777df3b1d9.JPG",
     "static/media/michaelangelo.jpg": "/hello/static/media/michaelangelo.392179727247c4574bc4.jpg",
     "static/media/napoli.jpg": "/hello/static/media/napoli.166d5804effc40b59d90.jpg",
@@ -41,15 +42,17 @@
     "static/media/magnum-fc.JPG": "/hello/static/media/magnum-fc.93c64fdf43ce46b42407.JPG",
     "static/media/rhill-cup.jpg": "/hello/static/media/rhill-cup.1c78792297f16a2fb6e8.jpg",
     "static/media/cruise-besso.JPG": "/hello/static/media/cruise-besso.ed0202021ce35bbb08db.JPG",
+    "static/media/green.jpeg": "/hello/static/media/green.f5e882900eb4bc644e27.jpeg",
     "static/media/home-cruise.JPG": "/hello/static/media/home-cruise.1e953a3ab9636d4da6f4.JPG",
     "static/media/music-don.JPG": "/hello/static/media/music-don.4d9edd03100720c5855e.JPG",
+    "static/media/jer-mya.jpeg": "/hello/static/media/jer-mya.8d6e32235c815884a243.jpeg",
     "static/media/sun-league.JPG": "/hello/static/media/sun-league.33de585742a7070a4c33.JPG",
+    "static/media/Family.JPG": "/hello/static/media/Family.e6ac629be0dae555ffee.JPG",
     "static/media/music-wrapped.JPG": "/hello/static/media/music-wrapped.22124b7974667c9b13f9.JPG",
     "static/media/trevi.JPG": "/hello/static/media/trevi.c738bb7b8a7a53c3da51.JPG",
     "static/media/arduino.png": "/hello/static/media/arduino.51319eb1c9d57bd3dd28.png",
     "static/media/aws.png": "/hello/static/media/aws.0d395cfe32e21d5a7995.png",
     "static/media/lifeguarding.JPG": "/hello/static/media/lifeguarding.3a5739526d58a4e87a06.JPG",
-    "static/media/desk-background.jpeg": "/hello/static/media/desk-background.7b935166cd9523c38423.jpeg",
     "static/media/mongoDB.png": "/hello/static/media/mongoDB.41e505b098e3087319b8.png",
     "static/media/soccer-kick.jpg": "/hello/static/media/soccer-kick.473dadd5373e1d15be60.jpg",
     "static/media/twilio.png": "/hello/static/media/twilio.591702ab03f947eb8008.png",
@@ -62,11 +65,11 @@
     "static/media/mase-group.jpeg": "/hello/static/media/mase-group.5dfb602772ca366997d0.jpeg",
     "index.html": "/hello/index.html",
     "main.a3e70abd.css.map": "/hello/static/css/main.a3e70abd.css.map",
-    "main.33565bd7.js.map": "/hello/static/js/main.33565bd7.js.map",
+    "main.7c30c44b.js.map": "/hello/static/js/main.7c30c44b.js.map",
     "453.9116c810.chunk.js.map": "/hello/static/js/453.9116c810.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3e70abd.css",
-    "static/js/main.33565bd7.js"
+    "static/js/main.7c30c44b.js"
   ]
 }
